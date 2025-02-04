@@ -1,5 +1,6 @@
 function Home() {
-  return <h1>Como uma formação é bem melhor que soment um curso de desenvolvimento.</h1>
+  return <h1>Estou aqui para ajudar no curso.dev.</h1>
 }
 
 export default Home;
+
